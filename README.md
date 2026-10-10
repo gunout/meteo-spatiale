@@ -431,7 +431,7 @@ SOFTWARE.
 
 **SPACEWATCH Marianne**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@<user>-000091?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunout)
+[![GitHub](https://img.shields.io/badge/GitHub-@gunout-000091?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunout)
 
 **Liberté · Égalité · Fraternité** 🇫🇷
 
